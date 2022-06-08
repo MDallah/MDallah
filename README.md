@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Capacitor / Cardova**
 
-- 👯 I’m looking to collaborate on **modern GUIs / robotics**
+- 👯 I’m looking to collaborate on **Modern GUIs / Robotics**
 
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or [My Portfolio](https://www.linkedin.com/in/mohammad-dallah/)
 

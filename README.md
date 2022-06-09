@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Modern GUIs / Robotics**
 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or [My Portfolio](https://www.linkedin.com/in/mohammad-dallah/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or [My Portfolio](https://md-p.netlify.app/)
 
 - 📫 How to reach me **muhammaddallah093@gmail.com**
 

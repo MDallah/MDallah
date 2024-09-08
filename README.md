@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Dallah</h1>
-<h3 align="center">Full-Stack Developer (Vue.js, Ionic, TypeScript, Robotics)</h3>
+<h3 align="center">Full-Stack Developer (Vue.js, TypeScript, Robotics)</h3>
 <img src="https://github.com/MDallah/MDallah/blob/main/profile-img.png" align="right" width="25%"/>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/MDallah/MyPortfolio)

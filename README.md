@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/MDallah/MyPortfolio)
 
-- 🌱 I’m currently learning **Capacitor / Cardova**
-
 - 👯 I’m looking to collaborate on **Modern GUIs / Robotics**
 
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or [My Portfolio](https://md-p.netlify.app/)

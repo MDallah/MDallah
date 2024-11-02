@@ -2,13 +2,13 @@
 <h3 align="center">Full-Stack Developer (Vue.js, TypeScript, Robotics)</h3>
 <img src="https://github.com/MDallah/MDallah/blob/main/profile-img.png" align="right" width="25%"/>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/MDallah/MyPortfolio)
+- 🔭 You can take a look on [My Portfolio](https://md-p.netlify.app/)
 
 - 👯 I’m looking to collaborate on **Modern GUIs / Robotics**
 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or [My Portfolio](https://md-p.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://md-p.netlify.app/) or [Linkedin](https://www.linkedin.com/in/mohammad-dallah/)
 
-- 📫 How to reach me **muhammaddallah093@gmail.com**
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or under **muhammaddallah093@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

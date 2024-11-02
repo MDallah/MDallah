@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://md-p.netlify.app/) or [Linkedin](https://www.linkedin.com/in/mohammad-dallah/)
 
-- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or under **muhammaddallah093@gmail.com**
+- 📫 you can reach me on [Linkedin](https://www.linkedin.com/in/mohammad-dallah/) or under **muhammaddallah093@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

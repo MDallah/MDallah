@@ -1,56 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mohammad Dallah</h1>
+<h1 align="center"> Hi 👋, I'm Mohammad Dallah </h1>
 <h3 align="center">Full-Stack Developer | Robotics Enthusiast | Tech Explorer</h3>
 
+<div align="center">
+  <img src="./profile-img.png" width="200" alt="Mohammad Dallah"/>
+</div>
+
+<br/>
+<br/>
+
+<!-- About Me Section -->
+<h2 align="center"> ⭐️ About Me ⭐️ </h2>
 <p align="center">
-  <img src="https://github.com/MDallah/MDallah/blob/main/profile-img.png" width="200" alt="Mohammad Dallah"/>
+  I'm a passionate 🚀 <strong>Full-Stack Developer</strong> & <strong>Robotics Enthusiast</strong> 🤖, constantly diving into new technologies and building innovative projects. <br/>
+  Feel free to explore my <a href="https://md-p.netlify.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a> and connect!
+</p>
+<br/>
+<br/>
+
+<!-- Skills Section -->
+<h2 align="center"> 🧰 Languages & Tools </h2>
+<div align="center">
+ <br/>
+  <div align="center">
+    <!-- Frontend & Core Web -->
+    <p>
+      <strong>Frontend & Web Core:</strong><br/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a> 
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a> 
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/></a> 
+    </p>
+    <!-- Backend & Other Languages -->
+    <p>
+      <strong>Backend & Languages:</strong><br/><br/>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+      <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js"/></a> 
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/></a> 
+      <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a> 
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a> 
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a> 
+    </p>
+    <!-- Databases & Tools -->
+    <p>
+      <strong>Databases & Tools:</strong><br/><br/>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a> 
+      <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    </p>
+    <!-- OS, Hardware & Extensions -->
+    <p>
+      <strong>OS, Hardware & Extensions:</strong><br/><br/>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/></a> 
+      <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/></a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a> 
+      <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a> 
+      <a href="https://www.tampermonkey.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tampermonkey-336?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Tampermonkey"/></a> 
+    </p>
+  </div>
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center"> 📫 Reach me on </h2>
+<p align="center">
+  <a href="https://md-p.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&color=ffffff" alt="Website"/>
+  </a>   
+  <a href="https://www.linkedin.com/in/mohammad-dallah/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>   
+  <a href="mailto:muhammaddallah093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=red" alt="Email"/>
+  </a>   
 </p>
 
----
+<br/>
+<br/>
 
-### 🌐 Portfolio & Contact
-
-- 🔭 Check out my portfolio: [md-p.netlify.app](https://md-p.netlify.app/)
-- 👨‍💻 All of my work: [LinkedIn](https://www.linkedin.com/in/mohammad-dallah/)
-- 📫 Reach me at: **muhammaddallah093@gmail.com**
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-dallah/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left">
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="40" height="40"/></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/></a>
-<a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia.js" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-</p>
-
----
-
-⭐️ Thanks for stopping by!
-
+<p align="center">⭐️ Thanks for stopping by! </p>

@@ -11,26 +11,28 @@
 <!-- About Me Section -->
 <h2 align="center"> ⭐️ About Me ⭐️ </h2>
 <p align="center">
-  I'm a passionate 🚀 <strong>Full-Stack Developer</strong> & <strong>Robotics Enthusiast</strong> 🤖, constantly diving into new technologies and building innovative projects. <br/>
-  Feel free to explore my <a href="https://md-p.netlify.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a> and connect!
+Software Developer focused on building scalable web applications with modern stacks.<br><br>
+🔹 <bold>Core Focus</bold>: Clean architecture, user-centered design, performance optimization, reliable deployments  <br><br>
+🔹 <bold>Currently</bold>: Building self-hosted solutions, automating workflows, exploring DevOps practices  <br>
+
 </p>
 <br/>
 <br/>
 
 <!-- Skills Section -->
-<h2 align="center"> 🧰 Languages & Tools </h2>
+<h2 align="center"> 🧰 Tech Stack & Tools </h2>
 <div align="center">
  <br/>
   <div align="center">
     <!-- Frontend & Core Web -->
     <p>
       <strong>Frontend & Web Core:</strong><br/><br/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a> 
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a> 
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a> 
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a> 
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/></a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
     </p>
     <!-- Backend & Other Languages -->
     <p>
@@ -49,6 +51,13 @@
       <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a> 
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    </p>
+        <!-- DevOps & Infrastructure -->
+    <p>
+      <strong>DevOps & Infrastructure:</strong><br/><br/>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+      <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CI/CD-0078D4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/></a>
     </p>
     <!-- OS, Hardware & Extensions -->
     <p>
